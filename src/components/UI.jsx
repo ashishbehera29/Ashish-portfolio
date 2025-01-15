@@ -73,7 +73,7 @@ export const UI = () => {
         <div className="flex justify-between items-center p-6">
           <img src={logo} alt="Logo" className="h-20 w-20" />
           <p className="text-white text-xs">Zoom in, zoom out, and move the book for a better experience</p>
-          <h4 className="text-white text-m">Ashish Behera</h4>
+          <h4 className="text-white text-m">Ashish </h4>
         </div>
        
         <div className="w-full overflow-auto pointer-events-auto flex justify-center mt-4">
